@@ -1,0 +1,38 @@
+body {
+	background-color: #ffee99;
+	color: #003f88;
+}
+h1 {
+	color: #ffee99;
+	text-align: center;
+	opacity: 0.85;
+}
+p {
+	color: #000000;
+}
+.header, .footer {
+	background-color: #e4afff;
+	border: 5px solid;
+}
+img {
+	border: 5px solid grey;
+
+}
+.box{
+/*	background-color: #99d6ea;*/
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+.box-text {
+	background-color: #ffee99;
+	color: black;
+
+}
+.main {
+	background-image: url(https://img.freepik.com/premium-vector/banana-fruit-seamless-pattern-background-vector-format_52644-8.jpg?w=740);
+	background-attachment: fixed;
+	background-size: cover;
+
+}
